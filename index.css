@@ -1,3 +1,7 @@
+:root{
+	font-size: 16px;
+}
+
 .navbar{
 	display: flex;
 	flex-direction: row;
@@ -7,7 +11,7 @@
 }
 .logo{
 	padding: 5px;
-	font-size: 22px;
+	font-size: 1.4rem;
 }
 
 .list a{
@@ -26,7 +30,7 @@ a{
 	margin:10px;
 	color: red;
 	font-family:'Comic Sans MS';
-	font-size: 17px;
+	font-size: 1.1rem;
 	font-weight: bold;
 }
 
@@ -83,4 +87,5 @@ a{
 	.hide{
 		display: none;
 	}
+
 }
